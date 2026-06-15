@@ -5,3 +5,5 @@ vless://bm9uZTphODhmYTgyYy1lOTgwLTQ2NDEtODU3ZS1jYzQ5ZGQ2MmIzMzdAMzEuNTcuMTcyLjQ2
 anytls://40bee092-aa88-4f40-b041-ed670cb3253a@khhk.zlstar.sbs:56789/?peer=666.zlstar.sbs&insecure=1&udp=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF1
 
 anytls://40bee092-aa88-4f40-b041-ed670cb3253a@khhk.zlstar.sbs:23444/?peer=993.zlstar.sbs&insecure=1&udp=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A11
+vless://bm9uZTphODhmYTgyYy1lOTgwLTQ2NDEtODU3ZS1jYzQ5ZGQ2MmIzMzdAY2Y5LmRhbmZlbmcuZXUub3JnOjIwOTY?path=/proxyip%3D23.249.17.25&remarks=%E4%B8%87%E9%87%8C%C2%B7%E5%A4%A7%E5%90%89&obfsParam=id008.pages.dev&obfs=websocket&tls=1&peer=id008.pages.dev&udp=1
+
