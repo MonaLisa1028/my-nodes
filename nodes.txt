@@ -1,12 +1,7 @@
+vless=cf5.danfeng.eu.org:2053, method=none, password=a88fa82c-e980-4641-857e-cc49dd62b337, obfs=wss, obfs-host=id008.pages.dev, obfs-uri=/proxyip=23.249.17.25, tls-verification=false, fast-open=false, udp-relay=false, tag=踏雪·瑞兆
+vless=cf6.danfeng.eu.org:2087, method=none, password=a88fa82c-e980-4641-857e-cc49dd62b337, obfs=wss, obfs-host=id008.pages.dev, obfs-uri=/proxyip=23.249.17.25, tls-verification=false, fast-open=false, udp-relay=false, tag=⚠︎ ⚠︎ 奔霄·纳福
+vless=cf6.danfeng.eu.org:2087, method=none, password=a88fa82c-e980-4641-857e-cc49dd62b337, obfs=wss, obfs-host=id008.pages.dev, obfs-uri=/proxyip=23.249.17.25, tls-verification=false, fast-open=false, udp-relay=true, tag=奔霄·纳福
 vless=103.137.22.97:443, method=none, password=a88fa82c-e980-4641-857e-cc49dd62b337, obfs=wss, obfs-host=id008.pages.dev, obfs-uri=/proxyip=23.249.17.25, tls-verification=false, fast-open=false, udp-relay=false, tag=TW⚡TG@danfeng_chat
-vless://bm9uZTphODhmYTgyYy1lOTgwLTQ2NDEtODU3ZS1jYzQ5ZGQ2MmIzMzdAY2Y2LmRhbmZlbmcuZXUub3JnOjIwODc?path=/proxyip%3D23.249.17.25&remarks=%E5%A5%94%E9%9C%84%C2%B7%E7%BA%B3%E7%A6%8F&obfsParam=id008.pages.dev&obfs=websocket&tls=1&peer=id008.pages.dev&udp=1
-vless://bm9uZTphODhmYTgyYy1lOTgwLTQ2NDEtODU3ZS1jYzQ5ZGQ2MmIzMzdAY2YyLmRhbmZlbmcuZXUub3JnOjg0NDM?path=/proxyip%3D23.249.17.25&remarks=%E8%B5%A4%E9%A9%AC%C2%B7%E6%96%B0%E5%B2%81&obfsParam=id008.pages.dev&obfs=websocket&tls=1&peer=id008.pages.dev&udp=1
-vless://bm9uZTphODhmYTgyYy1lOTgwLTQ2NDEtODU3ZS1jYzQ5ZGQ2MmIzMzdAMzEuNTcuMTcyLjQ2Ojg0NDM?path=/proxyip%3D23.249.17.25&remarks=JP%E2%9A%A1TG@danfeng_chat&obfsParam=id008.pages.dev&obfs=websocket&tls=1&peer=id008.pages.dev&udp=1
 
-anytls://40bee092-aa88-4f40-b041-ed670cb3253a@khhk.zlstar.sbs:56789/?peer=666.zlstar.sbs&insecure=1&udp=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF1
-
-anytls://40bee092-aa88-4f40-b041-ed670cb3253a@khhk.zlstar.sbs:23444/?peer=993.zlstar.sbs&insecure=1&udp=1#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A11
-vless://bm9uZTphODhmYTgyYy1lOTgwLTQ2NDEtODU3ZS1jYzQ5ZGQ2MmIzMzdAY2Y5LmRhbmZlbmcuZXUub3JnOjIwOTY?path=/proxyip%3D23.249.17.25&remarks=%E4%B8%87%E9%87%8C%C2%B7%E5%A4%A7%E5%90%89&obfsParam=id008.pages.dev&obfs=websocket&tls=1&peer=id008.pages.dev&udp=1
-anytls://40bee092-aa88-4f40-b041-ed670cb3253a@khhk.zlstar.sbs:20180?peer=224.zlstar.sbs&insecure=1&udp=1#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD
 
 
